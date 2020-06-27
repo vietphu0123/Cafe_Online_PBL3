@@ -23,7 +23,8 @@ namespace Do_An2
        
         public virtual ICollection< Managers> Manager { get; set; }
 
-
+        //LocalStore
+        
 
     }
 }
